@@ -54,7 +54,7 @@ Antes de utilizar este arquetipo, asegúrate de contar con los siguientes requis
 
 ## 1. Clonar el arquetipo
 
-git clone https://git.bam.com/orkester/micro-orkester-archetype.git
+git clone https://github.com/somospragma/mfe-orkester-remote.git
 cd mfe-orkester-remote
 
 ## 2. Instalar dependencias
